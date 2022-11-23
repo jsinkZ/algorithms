@@ -18,7 +18,6 @@ def test(algorithm, array=generate_list(NUMBER_OF_ELEMENTS, MAX_RAND)):
     start_time = time.time()
     new_array = algorithm(array)  # new array by algorithm
     end_time = time.time()
-    # print(array)
     if new_array[-1] == max(array):
         success = True
 
