@@ -5,6 +5,7 @@ from algorithms import (
     insertion_sort,
     bin_insertion_sort,
     merge_sort,
+    quick_sort,
 )
 
 # print(test(bubble_sort.bubble_sort))
@@ -12,3 +13,4 @@ from algorithms import (
 # print(test(insertion_sort.insertion_sort))
 # print(test(bin_insertion_sort.bin_insertion_sort))
 # print(test(merge_sort.merge_sort))
+# print(test(quick_sort.quick_sort))
