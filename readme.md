@@ -1,6 +1,7 @@
 ### Sort algorithms complexity
 
 - Merge sort `O(n log (n))`
+- Quick sort `O(n log (n))`
 - Binary insertion sort `O(log (n))`
 - Bubble sort `O(n)`
 - Insertion sort `O(n)`
