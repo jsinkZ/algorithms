@@ -1,4 +1,4 @@
-\*\* Sort algorithms complexity
+### Sort algorithms complexity
 
 - Merge sort `O(n log (n))`
 - Binary insertion sort `O(log (n))`
@@ -6,7 +6,7 @@
 - Insertion sort `O(n)`
 - Selection sort `O(n^2)`
 
-\*\* Find element algorithms complexity
+### Find element algorithms complexity
 
 - Binary search `O(log (n))`
 - Min `O(n)`
