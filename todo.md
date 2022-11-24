@@ -1,0 +1,2 @@
+- refactor to \_\_name\_\_ == "\_\_main\_\_":
+- write on classes
